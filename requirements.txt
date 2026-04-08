@@ -1,7 +1,7 @@
 # ===== COMPLETELY FREE & OPEN-SOURCE STACK =====
 
 # Local LLM (free alternative to Claude)
-ollama==0.1.25
+ollama==0.6.1
 requests==2.31.0
 
 # Voice & Audio (all free/open-source)
