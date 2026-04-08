@@ -1,0 +1,35 @@
+# ===== COMPLETELY FREE & OPEN-SOURCE STACK =====
+
+# Local LLM (free alternative to Claude)
+ollama==0.1.25
+requests==2.31.0
+
+# Voice & Audio (all free/open-source)
+pyaudio==0.2.13
+sounddevice==0.4.6
+faster-whisper==0.10.1
+piper-tts==1.2.0  # Free offline TTS
+pyannote-audio==2.3.0  # Voice detection
+
+# Web & APIs
+aiohttp==3.9.3
+python-dotenv==1.0.0
+feedparser==6.0.10  # For RSS feeds (free news)
+beautifulsoup4==4.12.0  # Web scraping
+
+# Data & Utilities
+python-dateutil==2.8.2
+pytz==2024.1
+numpy==1.24.3
+scipy==1.11.1
+
+# Database & Storage
+sqlalchemy==2.0.27
+
+# Testing & Logging
+pytest==7.4.4
+pytest-asyncio==0.23.3
+pydantic==2.6.4
+
+# Performance
+uvloop==0.19.0
